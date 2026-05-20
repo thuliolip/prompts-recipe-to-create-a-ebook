@@ -40,15 +40,15 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um titulo de um ebook sobre o tema de COBOL, o ebook e do nicho de programacao, o titulo deve ser epico e curto, com tematica de arqueologia. Me liste 5 variacoes de titulos.                                                    |
+| conteúdo | Faca um texto para ebook, com foco em COBOL, listando os principais conceitos com exemplos em codigo. Explique de maneira simples, texto enxuto, exemplos reais, titulos sugestivos por topico. |
 
 
-Midjourney：
+Copilot：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Um arqueologo em um templo antigo e escuro, descobrindo uma tabua de pedra brilhante coberta com codigo COBOL no lugar de hieroglifos. O arqueologo usa chapeu de explorador e jaqueta de couro, segurando uma tocha que ilumina o artefato misterioso. Tons terrosos — terracota, areia, ambar e dourado. Iluminacao dramatica cinematografica, particulas de poeira no ar. Ilustracao digital profissional, clima aventureiro. Paredes com padroes de circuito misturados com entalhes antigos.|
 
 ## ✨ Features
 
@@ -59,34 +59,3 @@ Midjourney：
 
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
